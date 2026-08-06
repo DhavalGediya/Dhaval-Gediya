@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Dhaval Gediya | Senior Full Stack Developer</title>
+    <link>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/</link>
+    <description>Portfolio of Dhaval Gediya — Senior Full Stack Developer specializing in React, Node.js, and modern web applications. Available for hire.</description>
+    <language>en</language>
+    <item>
+      <title>Healthcare Patient Management System</title>
+      <link>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#projects</link>
+      <description>Enterprise digital patient file system enabling coordinated care across hospital departments with real-time patient tracking.</description>
+      <guid>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#project-1</guid>
+    </item>
+    <item>
+      <title>Sales Commission Platform</title>
+      <link>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#projects</link>
+      <description>Sales team platform for lead management, document sharing, and commission tracking with role-based security.</description>
+      <guid>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#project-6</guid>
+    </item>
+    <item>
+      <title>Standard Chartered Investment Platform</title>
+      <link>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#projects</link>
+      <description>Investment fund research and comparison platform for Standard Chartered with interactive charts and side-by-side fund analysis.</description>
+      <guid>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#project-9</guid>
+    </item>
+    <item>
+      <title>Melzo 3D Product Customizer</title>
+      <link>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#projects</link>
+      <description>Interactive 3D model viewer allowing users to rotate, zoom, customize materials, and save configurations in real-time.</description>
+      <guid>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#project-12</guid>
+    </item>
+    <item>
+      <title>ERP Business Management Software</title>
+      <link>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#projects</link>
+      <description>Large-scale ERP system with user management, role-based access control, and personalized business dashboards.</description>
+      <guid>https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/#project-17</guid>
+    </item>
+  </channel>
+</rss>

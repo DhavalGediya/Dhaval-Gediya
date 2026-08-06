@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhavalgediya.github.io/Dhaval-Gediya/Dhaval-Gediya/sitemap.xml
